@@ -21,6 +21,7 @@ dados disponíveis;
    3. Criar um roteiro de 3 perguntas para realizar uma pesquisa com clientes da base sobre potenciais problemas identificados nos dados.
 
 ## Dados Analisados
+Os dados recebidos para esse estudo e as intruções se encontram na pasta [in](/in/), caso você tennha interesse em realizar esse estudo.
 
 ## Ferramentas Utilizadas
 
