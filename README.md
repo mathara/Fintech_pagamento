@@ -1,4 +1,4 @@
-# Fintech_pagamento
+# Métricas de Adquirência
 
 Case buscando explorar as habilidades de análise de dados focado na dinâmica dos meios de pagamento.
 
