@@ -21,7 +21,11 @@ dados disponíveis;
    3. Criar um roteiro de 3 perguntas para realizar uma pesquisa com clientes da base sobre potenciais problemas identificados nos dados.
 
 ## Dados Analisados
-Os dados recebidos para esse estudo e as intruções se encontram na pasta [in](/in/), caso você tennha interesse em realizar esse estudo.
+Os dados recebidos para esse estudo e as intruções se encontram na pasta [in](/in/), caso você tennha interesse em realizar esse estudo. Os arquivos com os meus resultados se encontram na pasta raiz, para a consulta.
+
+### Dashboard
+![Painel Gerencial](bau/Metricas_Adq_video.gif)
+Acesse aqui o [Dashboard](https://bit.ly/MMA_Adquirencia).
 
 ## Ferramentas Utilizadas
 
@@ -32,3 +36,4 @@ Os dados recebidos para esse estudo e as intruções se encontram na pasta [in](
 
 
 ## Resultados
+
