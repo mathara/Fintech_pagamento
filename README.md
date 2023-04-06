@@ -37,3 +37,19 @@ Acesse aqui o [Dashboard](https://bit.ly/MMA_Adquirencia).
 
 ## Resultados
 
+Principais KPIS mapeados:
+- TPV em Adquirência
+- Clientes Ativos por Produto
+- Banking
+   - Receita
+   - TPV por produto
+   - Qtde de Transações
+ 
+### Recomendações
+- Na Adquirência, devemos aprofundar, com análises de sazonalidade e das safras dos clientes. 
+- Na evolução de clientes ativos devemos entender a nossa atratividade da conta digital, se temos oferecido diferencial de
+mercado e nossa posição sobre os Empréstimos.
+- Em Banking, observamos que temos maior volume de saída do que de entrada no produto Pix. Mesmo que o
+número de transações de entradas de pix seja superior ao de saída, desde out/21. Devemos aprofudar no ticket médio e instiuições de destino.
+
+Material de consulta [Painel Executivo](out/Fintech_pagamentos.pdf).
